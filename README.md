@@ -1,59 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> This project is dedicated to microverse. It is a task to develope knowledge about github ,githubflow ,
+setting up linter and ignore files using .gitignore
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project contains, linter testings and a html file that contains a header "Hello world" designed through styles.css
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://aminehlub.github.io/Hello-Microverse/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Internet Connection
+
+- OS with Git installed on it
+
 ### Setup
+
+**Run** git clone https://github.com/AmineHLub/Hello-Microverse.git
 
 ### Install
 
+no installation required
+
 ### Usage
+
+for testing only (index.html)
 
 ### Run tests
 
-### Deployment
+**Run** index.html
 
 
+## Author
 
-## Authors
+👤 **Author**
 
-👤 **Author1**
+- GitHub: [@AmineHLub](https://github.com/AmineHLub)
+- Twitter: [@Amino47612441](https://twitter.com/Amino47612441)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hajltaief-b18863163/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -61,9 +60,6 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
